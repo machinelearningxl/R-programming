@@ -1,5 +1,5 @@
 # Author: Antero Maripuu
-# Date: 04/1/2018
+# Date: 04/10/2018
 # Homework at University of London in MSc Applied Statistics and Financial Modelling
 # All rights reserved.
 
