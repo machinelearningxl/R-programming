@@ -4,4 +4,8 @@
 # Course: Statistical Analysis (2018/2019)
 # All rights reserved
 
+#Data Handeline in R
+
+x<-read.table("oil.txt")
+x
 
