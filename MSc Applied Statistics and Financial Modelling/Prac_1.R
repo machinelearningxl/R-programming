@@ -1,6 +1,7 @@
 # Author: Antero Maripuu
-# Date: 04/1/2018
-# Homework at University of London in MSc Applied Statistics and Financial Modelling
+# Date: 04/10/2018
+# Homework in MSc Applied Statistics and Financial Modelling (University of London)
+# Course: Statistical Analysis (2018/2019)
 # All rights reserved.
 
 #The following data are te masses in grams of a random sample of size 50 from a choort of
