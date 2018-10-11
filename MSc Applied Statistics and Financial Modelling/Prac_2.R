@@ -5,6 +5,7 @@
 # All rights reserved
 
 #Data Handeline in R
+getwd() #working directory
 
 x<-read.table("oil.txt")
 x
