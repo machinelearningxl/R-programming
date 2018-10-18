@@ -18,6 +18,11 @@ spend <- data.frame(groceries, leisure, income)
 
 ############################################################################################
 
+
+
+
+
+
 x<-read.table("oil.txt", header=FALSE)
 names(x)<-c("spirit","gravity","pressure","distil","endpoint")
 x

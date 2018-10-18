@@ -4,6 +4,22 @@
 # Course: Statistical Analysis (2018/2019)
 # All rights reserved
 
+
+#Introduction
+
+rm(list=ls()) #remove all variables from the R memory
+
+b=C(5,6,7) #define a vector
+
+x=rnorm(10, mean=1.2, sd=3.4)
+
+plot(x)
+hist(x)
+qqnorm(x)
+
+
+
+
 #The following data are te masses in grams of a random sample of size 50 from a choort of
 #young salmon. The data are assumed to come from a N()
 #############################################################
